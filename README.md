@@ -20,8 +20,6 @@ This repository contains code for river segmentation from historical maps using 
   - [Using the Inference Script](#using-the-inference-script)
   - [Programmatic Inference](#programmatic-inference)
 - [Results and Evaluation](#results-and-evaluation)
-- [Customization](#customization)
-- [Troubleshooting](#troubleshooting)
 
 ## Introduction
 
